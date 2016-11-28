@@ -1,0 +1,40 @@
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.exe
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.pdb
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.baml
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.g.cs
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\App.g.cs
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1_MarkupCompile.cache
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.g.resources
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.Properties.Resources.resources
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.exe
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.pdb
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\sr-lab\documents\visual studio 2010\Projects\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1_MarkupCompile.cache
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.g.resources
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.Properties.Resources.resources
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.exe
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.pdb
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.exe
+C:\Users\admin\Desktop\Projects SKD\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.pdb
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.exe
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.pdb
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.exe
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\bin\Debug\SKD_Kinect3D_1.pdb
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.baml
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\MainWindow.g.cs
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\App.g.cs
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1_MarkupCompile.cache
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.g.resources
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\SKD_Kinect3D_1.Properties.Resources.resources
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\nEW dOCUMENTS\DESKTOP\Projects Sumeet\SKD_Kinect3D_1\SKD_Kinect3D_1\obj\x86\Debug\GenerateResource.write.1.tlog
